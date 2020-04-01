@@ -23,7 +23,7 @@
 
 ```java
 	dependencies {
-	        implementation 'com.github.yangkun19921001:YKProBus:1.0.1'
+	        implementation 'com.github.XiaoKeXin09:LYKProBus:1.0.0'
 	}
 ```
 
@@ -229,6 +229,6 @@ public Messenger(IBinder target) {
 
 ## 总结
 
-我们自己的 [YKProBus](https://github.com/yangkun19921001/YKProBus) 为了进程间通信使用更简单方便，其实相当于在 AIDL 中的三次封装。想要了解的可以去看下我具体的封装或者 Messenger 源码。
+我们自己的 [YKProBus](https://github.com/XiaoKeXin09/LYKProBus) 为了进程间通信使用更简单方便，其实相当于在 AIDL 中的三次封装。想要了解的可以去看下我具体的封装或者 Messenger 源码。
 
 感谢大家抽空阅览文章，谢谢！
